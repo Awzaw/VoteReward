@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at http://poggit.jdcraft.net/poggit/ci/Awzaw/VoteReward
+branches:
+- master
+projects:
+  VoteReward:
+    path: ""
+...
