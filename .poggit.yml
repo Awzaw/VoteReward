@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at http://86.185.228.188/poggit/ci/Awzaw/VoteReward
+branches:
+- master
+projects:
+  VoteReward:
+    path: ""
+...
